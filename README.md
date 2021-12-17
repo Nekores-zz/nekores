@@ -29,4 +29,3 @@ Building a [transparent IT agency](https://ever.tech) and a few large [Open-Sour
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evereq)
 
 ---
-Made with ❤️ by Ruslan Konviser
