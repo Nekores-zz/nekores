@@ -5,18 +5,10 @@
 [Upwork](https://upwork.com/fl/nekores) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nekores)
 
-Building a [transparent IT agency](https://ever.tech) and a few large [Open-Source projects for On-Demand & Sharing Economies](https://github.com/ever-co).
-
-- :muscle: Running IT agency - https://ever.tech.
-- :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
-  a) https://github.com/ever-co/ever (eCommerce) - 1000+ 🌟  
-  b) https://github.com/ever-co/gauzy (ERP/CRM/HRM) - 500+ 🌟  
-  c) https://github.com/ever-co/ever-traduora (Translations Management) - 1500+ 🌟
-- :moneybag: Always looking for new clients & partners, [contact me](mailto:ever@ever.tech) please or hire via [Upwork](https://upwork.com/fl/ever).
 
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=evereq)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=nekores)
 
 <summary>:star: <b>GitHub Stars</b></summary><br/>
 
