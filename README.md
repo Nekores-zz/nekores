@@ -11,13 +11,9 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=nekores)
 
-<summary>:star: <b>GitHub Stars</b></summary><br/>
-
-![Evereq's github stats](https://github-readme-stats.vercel.app/api?username=evereq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <summary>:+1: <b>Github Karma</b></summary><br/>
 
-[![Source Karma badge for @evereq](https://sourcekarma-og.vercel.app/api/evereq/github)](https://sourcekarma.vercel.app/evereq)
+[![Source Karma badge for @evereq](https://sourcekarma-og.vercel.app/api/evereq/github)](https://sourcekarma.vercel.app/nekores)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evereq)
 
