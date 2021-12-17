@@ -2,7 +2,7 @@
 
 <summary>:rocket: <b>About Me</b></summary><br/>
 
-[![Upwork](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/evereq) 
+[![Upwork]()](https://upwork.com/fl/nekores) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nekores)
 
 Building a [transparent IT agency](https://ever.tech) and a few large [Open-Source projects for On-Demand & Sharing Economies](https://github.com/ever-co).
