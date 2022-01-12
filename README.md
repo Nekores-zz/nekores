@@ -3,7 +3,7 @@
 <summary>:rocket: <b>About Me</b></summary><br/>
 
 <!-- [![Upwork](https://live.staticflickr.com/65535/5117650762_336e322860_o.png)](https://upwork.com/fl/nekores) -->
-[![Upwork]Hire](https://upwork.com/fl/nekores)
+[<summary>:rocket: <b>About Me</b></summary><br/>](https://upwork.com/fl/nekores)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nekores)
 
 
