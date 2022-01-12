@@ -15,6 +15,6 @@
 
 [![Source Karma badge for @evereq](https://sourcekarma-og.vercel.app/api/evereq/github)](https://sourcekarma.vercel.app/nekores)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evereq)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nekores)
 
 ---
